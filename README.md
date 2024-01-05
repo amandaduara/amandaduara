@@ -9,7 +9,12 @@
       <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
       <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
       <img width="48" height="48" src="https://cdn.simpleicons.org/dotnet/00ccff99" />
-  </div>
+    </div>
+</div>
+<div align="center">  
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amandaduara&layout=compact&hide_border=true&title_color=FF1493&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaduara&layout=compact&hide_border=true&title_color=FF1493&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 
 
